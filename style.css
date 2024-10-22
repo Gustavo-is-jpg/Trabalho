@@ -1,0 +1,37 @@
+body {
+    color: #000000b0;
+    background: #290b529b;
+    margin: 3px;
+    font-family: "Playwrite GB S", cursive;
+
+}
+
+header {
+    border-bottom: solid 3px #bbbb;
+    padding: 20px;
+    font-size: 32px;
+    color: #dadadabb;
+}
+
+section {
+    background: #af97d3;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.titolo {
+    margin-right: 5%;
+}
+
+h1 {
+    FONT-SIZE: 30PX;
+}
+
+p{
+    font-size: 15px;
+}
+img{
+    height: 200px;
+}
